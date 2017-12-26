@@ -1,0 +1,5 @@
+public class CustomerDaoImpl{
+String username="root";
+String password="root";
+String url="jdbc://mysql:localhost:/testdb;
+}

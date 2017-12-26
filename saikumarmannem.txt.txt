@@ -1,0 +1,6 @@
+public class Holiday{
+public static void main(String args[]){
+System.out.println("plan 2 days holidays for new year");
+System.out.println("plan one week holidays for pongal.....plz sir");
+}
+}

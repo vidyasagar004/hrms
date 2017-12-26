@@ -1,0 +1,6 @@
+public class CustomerDao{
+createCustomerDao(){
+System.out.println("customer created");
+System.out.println("calling ... createCustomerDao().....");
+}
+}
